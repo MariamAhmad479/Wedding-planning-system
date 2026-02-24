@@ -130,3 +130,20 @@ However, only the required features (Guest List and Gehaz Item modules) were ful
 ## 👨‍💻 Contribution
 
 Designed and implemented the JavaFX UI layer and integrated the Guest List and Gehaz Item modules with Microsoft SQL Server, ensuring complete CRUD functionality and database synchronization.
+
+
+## 🗄 Database Setup
+
+The database scripts are available inside the `database/` folder:
+
+- `Ayza_AtgawezDDL.sql` → Creates tables and schema
+- `Ayza_AtgawezInsertions.sql` → Inserts sample data
+- `Ayza_AtgawezQueries.sql` → Example system queries
+
+To run the project:
+
+1. Create a database in Microsoft SQL Server.
+2. Execute the DDL script.
+3. Execute the Insertions script.
+4. Update the connection string in `DBConnection.java`.
+5. Run the application.
