@@ -1,0 +1,8 @@
+2026.02.24 02:26:47 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\USER\OneDrive - Egypt University of Informatics\Semester 5\Software Engineering\Deliverable 5\files\Ayza_Atgawez\Ayza_Atgawez' for client Visual Studio Code 1.109.5.
+2026.02.24 02:26:47 INFO  Memory monitor started
+2026.02.24 02:26:48 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.24 02:26:48 WARN  no build tool detected in workspace 'C:\Users\USER\OneDrive - Egypt University of Informatics\Semester 5\Software Engineering\Deliverable 5\files\Ayza_Atgawez\Ayza_Atgawez'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.24 02:26:48 WARN  Build server is not auto-connectable.
+2026.02.24 02:26:48 WARN  no build target for: C:\Users\USER\OneDrive - Egypt University of Informatics\Semester 5\Software Engineering\Deliverable 5\files\Ayza_Atgawez\Ayza_Atgawez\src\app\Main.java
+2026.02.24 02:26:50 WARN  Running javac-semanticdb failed for file:///C:/Users/USER/OneDrive%20-%20Egypt%20University%20of%20Informatics/Semester%205/Software%20Engineering/Deliverable%205/files/Ayza_Atgawez/Ayza_Atgawez/src/app/Main.java. Output:
+

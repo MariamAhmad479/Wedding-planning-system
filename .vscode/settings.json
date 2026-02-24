@@ -1,0 +1,19 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\USER\\Downloads\\sqljdbc_13.2.1.0_enu\\sqljdbc_13.2\\enu\\jars\\mssql-jdbc-13.2.1.jre11.jar",
+        "c:\\Users\\USER\\Downloads\\openjfx-21.0.9_windows-x64_bin-sdk\\javafx-sdk-21.0.9\\lib\\javafx.graphics.jar",
+        "c:\\Users\\USER\\Downloads\\openjfx-21.0.9_windows-x64_bin-sdk\\javafx-sdk-21.0.9\\lib\\javafx-swt.jar",
+        "c:\\Users\\USER\\Downloads\\openjfx-21.0.9_windows-x64_bin-sdk\\javafx-sdk-21.0.9\\lib\\javafx.media.jar",
+        "c:\\Users\\USER\\Downloads\\openjfx-21.0.9_windows-x64_bin-sdk\\javafx-sdk-21.0.9\\lib\\javafx.fxml.jar",
+        "c:\\Users\\USER\\Downloads\\openjfx-21.0.9_windows-x64_bin-sdk\\javafx-sdk-21.0.9\\lib\\javafx.controls.jar",
+        "c:\\Users\\USER\\Downloads\\openjfx-21.0.9_windows-x64_bin-sdk\\javafx-sdk-21.0.9\\lib\\javafx.base.jar",
+        "c:\\Users\\USER\\Downloads\\openjfx-21.0.9_windows-x64_bin-sdk\\javafx-sdk-21.0.9\\lib\\javafx.swing.jar",
+        "c:\\Users\\USER\\Downloads\\openjfx-21.0.9_windows-x64_bin-sdk\\javafx-sdk-21.0.9\\lib\\javafx.web.jar"
+    ],
+    "files.watcherExclude": {
+        "**/target": true
+    }
+}
